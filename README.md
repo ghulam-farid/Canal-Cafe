@@ -1,2 +1,2 @@
 # Canal-Cafe
-Basic web page build in HTML CSS
+Basic web page build in HTML5 CSS3
